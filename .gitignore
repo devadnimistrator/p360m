@@ -1,0 +1,5 @@
+
+# Dependency directories
+node_modules
+.DS_STORE
+public/tmp/img.png
